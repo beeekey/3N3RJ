@@ -1,3 +1,6 @@
+
+![3N3RJ Loggo](./assets/images/DALL·E 2024-05-03 21.06.31 - Redesign the '3N3RJ' project logo in the same intricate monochrome style as the previous image, but use light green and yellow as the main colors. The (1).webp)
+
 # 3N3RJ (Energy Storing and Harvesting)
 A small repo to gather and develop ideas to harvest and store makro energies.
 
@@ -46,6 +49,11 @@ The types of storage mentioned below are long-term, low-maintenance types of sto
     2. Ventilation shafts  
     Emptying the ventilation shafts from the bathrooms downwards would make more sense, as we would then not have to work against the air pressure and thus save energy. 
 
+5. Harvesting / recuperating periodically energies
+    * Wind turbines behind starting lanes on airports
+    * Wind turbines at the entrances of train and car tunnels
+    * Wind turbines at the entrances of other tunnels an passenger passages
+    * Wind turbines beside high ways on the truck lane
 
 # License
 Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
