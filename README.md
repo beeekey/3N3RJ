@@ -1,5 +1,5 @@
 
-![3N3RJ Loggo](./assets/images/DALL·E 2024-05-03 21.06.31 - Redesign the '3N3RJ' project logo in the same intricate monochrome style as the previous image, but use light green and yellow as the main colors. The (1).webp)
+![3N3RJ Loggo](./assets/images/logo_v1.png)
 
 # 3N3RJ (Energy Storing and Harvesting)
 A small repo to gather and develop ideas to harvest and store makro energies.
