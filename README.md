@@ -23,6 +23,7 @@ The types of storage mentioned below are long-term, low-maintenance types of sto
     In the long term, the energy could be stored in the form of compressed air. This would require 3 large compressed air tanks (for different pressures) to be sunk under the playground, which are insulated against heat. If compressed air is produced slowly, pressure can be built up with almost no heat loss. Using high-pressure cylinders mounted on a linear drive, the energy can be compressed into compressed air and stored in the tanks. Depending on how much energy mab has available, you can then decide how hard to compress the air.  
     To recover the energy, you could either reverse the process with the cylinders, which would probably mean greater losses, or you could drive a wind turbine. 
     Here, too, it would make sense to have 3 units. These 3 units can have different pressures (10, 20 and 50 bar) and can thus be used in stages as short, medium and long-term storage. Depending on the predicted consumption and production, different storage units are used. 
+    3. Long-term storage 
     See also geothermal heat pumps for long-term storage. 
 3. energy production 
     1. Wind energy 
