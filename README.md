@@ -56,6 +56,10 @@ The types of storage mentioned below are long-term, low-maintenance types of sto
     * Wind turbines at the entrances of other tunnels an passenger passages
     * Wind turbines beside high ways on the truck lane
 
+6. Location of these FullStack Powerplants
+    More or less, each house can be converted to be such a powerplant with the presented ideas above. 
+    We also could build large ones of these in towns and cities and use the inner core of the buildings as powerplants while using the outer perimeters as offices or living rooms.
+
 # License
 Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
